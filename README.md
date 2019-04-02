@@ -5,7 +5,7 @@
 - [Main Project Link]( https://github.com/itistheshortcut/mysite_JSClub.git) 
 ___
 
-# 24 Steps:
+# 23 Steps:
 
 - Static file
 - Routes with express and handlebars
@@ -14,13 +14,13 @@ ___
 - Initialize and register passport
 - Connect flash and express
 - Register users
-- Add portfolio model and user’s button
+- Add portfolio model and userâ€™s button
 - Create authentication
 - Add routes to edit and delete project
 - Routes to add work exp and education information
 - Add readme
 - Update keys.js
-- Add routes to user’s contact, portfolio, about and home 
+- Add routes to userâ€™s contact, portfolio, about and home 
 - Add routes to edit and delete
 - Add route to upload avatar picture
 - Add route to change project picture
