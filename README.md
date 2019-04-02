@@ -1,11 +1,13 @@
 # MYSITE_PROJECT
 
-****Here are the steps to the mysite_project****
+****Getting Started****
 
 - [Main Project Link]( https://github.com/itistheshortcut/mysite_JSClub.git) 
 ___
 
-# 23 Steps:
+# Tasks
+
+### 23 Steps:
 
 - Static file
 - Routes with express and handlebars
