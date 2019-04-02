@@ -1,8 +1,7 @@
 # MYSITE_PROJECT
 
-****Getting Started****
-
-- [Main Project Link]( https://github.com/itistheshortcut/mysite_JSClub.git) 
+****Is a full stack application with MongoDB, Express, Sass, HTML, Handlebar, JavaScript, NodeJS****
+- Final Task: [Main Project Link]( https://github.com/itistheshortcut/mysite_JSClub.git) 
 ___
 
 # Tasks
